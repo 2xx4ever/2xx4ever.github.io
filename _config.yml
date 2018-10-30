@@ -17,21 +17,24 @@ baseurl: ""
 title: 2xx4ever
 
 # Short description of your site
-#description: A virtual proof that name is awesome!
+description:
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Menu1:
-  Menu2:
-    - SubMenu2-1
-    - SubMenu2-2
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  首页: 
+  文章: ""
+  关于我: "aboutme"
+#  About Me: "aboutme"
+#  Menu1:
+#  Menu2:
+#    - SubMenu2-1
+#    - SubMenu2-2
+#  Resources:
+#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+#    - Learn markdown: "http://www.markdowntutorial.com/"
+#    - GitHub Pages: "https://pages.github.com/"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -68,7 +71,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: 
+  name: GaoYuan
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
